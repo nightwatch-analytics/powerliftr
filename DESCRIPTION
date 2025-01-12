@@ -1,9 +1,9 @@
 Package: powerliftr
-Title: What the Package Does (One Line, Title Case)
+Title: Formulas for Powerlifting Analytics and Programming
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Joseph", "Mohr", , "jmohr@thenightwatch.co", role = c("aut", "cre"))
+Description: Tools to assist in calculating one rep max, training loads, and developing programs. Recommended users include powerlifting coaches and athletes, NASM CPTs, and athletes focused on improveing strength and conditioning. 
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
