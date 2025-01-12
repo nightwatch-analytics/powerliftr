@@ -4,8 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Joseph", "Mohr", , "jmohr@thenightwatch.co", role = c("aut", "cre"))
 Description: Tools to assist in calculating one rep max, training loads, and developing programs. Recommended users include powerlifting coaches and athletes, NASM CPTs, and athletes focused on improveing strength and conditioning. 
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
