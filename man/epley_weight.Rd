@@ -18,7 +18,7 @@ The amount of weight to be lifted for a specified amount of reps.
 Calculates the weight based on the one-rep max of the athlere and total repetitions programmed. Inverse of the Epley formula.
 }
 \examples{
-# Athlete's max is 185 lbs and the number of reps programmed is 10
+# Athlete's max is 180 lbs and the number of reps programmed is 10
 # Recommended load is 135 lbs
-epley_weight(max = 185, reps = 10)
+epley_weight(max = 180, reps = 10)
 }
