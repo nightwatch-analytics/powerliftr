@@ -11,7 +11,7 @@
 #' @examples
 #' # Athlete's max is 185 lbs and the number of reps programmed is 10
 #' # Recommended load is 135 lbs
-#' epley_weight(max = 185, reps = 10)
+#' epley_weight(max = 180, reps = 10)
 epley_weight <- function(max, reps) {
   if (reps == 1) {
     max
