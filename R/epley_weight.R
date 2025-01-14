@@ -1,6 +1,7 @@
 #' Calculate weight based on one-rep max and total reps
 #'@description
-#'Calculates the weight based on the one-rep max of the athlere and total repetitions programmed. Inverse of the Epley formula.
+#'Calculates the weight based on the one-rep max of the athlete and total
+#'repetitions programmed. Inverse of the Epley formula.
 #'
 #' @param max One-repetition maximum of the athlete.
 #' @param reps Total number of repetitions programmed.

@@ -15,7 +15,8 @@ epley_weight(max, reps)
 The amount of weight to be lifted for a specified amount of reps.
 }
 \description{
-Calculates the weight based on the one-rep max of the athlere and total repetitions programmed. Inverse of the Epley formula.
+Calculates the weight based on the one-rep max of the athlete and total
+repetitions programmed. Inverse of the Epley formula.
 }
 \examples{
 # Athlete's max is 180 lbs and the number of reps programmed is 10
